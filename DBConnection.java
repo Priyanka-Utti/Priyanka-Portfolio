@@ -1,4 +1,4 @@
-package com.library.dao;
+package com.banking.dao;
 import java.sql.*;
 
 public class DBConnection {
